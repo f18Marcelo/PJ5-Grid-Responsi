@@ -30,7 +30,7 @@ body {
 }
 
 .page {
-  max-width: clamp(33rem, 30rem + 50vw, 177rem);
+  max-width: clamp(33rem, 30rem + 60vw, 177rem);
   padding: 0 5rem;
   margin: 10.5rem auto;
 }
